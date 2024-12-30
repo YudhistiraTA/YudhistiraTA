@@ -4,7 +4,9 @@ You might not see much public repo here because I have mediocre discipline and t
 
 ### 💻 Work
 
-Currently also handling mobile development using Flutter with a Go backend
+Currently also handling mobile development using Flutter with a Go backend. 
+
+Also currently undergoing a Computer Science bachelor program. 
 
 ### 📚 Literature
 
