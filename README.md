@@ -1,20 +1,22 @@
-Fullstack guy. Mostly JS/TS, but started with C by reading the [Holy Book](https://en.wikipedia.org/wiki/The_C_Programming_Language).
+Fullstack guy. Mostly JS/TS and Go, but started with C by reading the [Holy Book](https://en.wikipedia.org/wiki/The_C_Programming_Language).
 
 You might not see much public repo here because I have mediocre discipline and tend to abandon personal projects 2 weeks after starting.
 
 ### 💻 Work
 
-Currently also handling mobile development using Flutter with a Go backend. 
-
-Also currently undergoing a Computer Science bachelor program. 
+Currently handling a Go backend while undergoing a Computer Science bachelor program. 
 
 ### 📚 Literature
 
-Currently chewing through SICP and Satre's Being and Nothingness. I have no idea what's going on with either of these.
+Reading [Understanding the Linux Kernel](https://www.cs.utexas.edu/~rossbach/cs380p/papers/ulk3.pdf) and [Modern Operating System](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf). Also Simone de Beauvoir's [The Second Sex](https://en.wikipedia.org/wiki/The_Second_Sex)
 
 ### 🧠 Study
 
-Currently studying linux operating system and QT with C++. My goal is to actually break away from web development and move to desktop development, or something lower level. The internet sucks.
+Trying to implement some compute shader using [Metal](https://developer.apple.com/metal/) for some university courses.
+
+### 🎮 Waste of Time
+
+Horses. Also, Death Stranding.
 
 [![wakatime](https://wakatime.com/badge/user/2f2476cb-8e9c-4831-b99f-75f749e1fc16.svg)](https://wakatime.com/@2f2476cb-8e9c-4831-b99f-75f749e1fc16)
 
